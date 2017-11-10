@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+}
+
+#nav {
+ position: relative;
+    top: 25px;
+   
+    
+}
+
+#uno {
+    float: left;
+  margin-left: 40%;ß
+}
+#dos {
+    float: left;
+   margin-left: 50px;
+    
+}
+#tres {
+    float: left;
+    margin-left: 50px;
+}
+
+#cuatro {
+    float: left;
+    margin-left: 50px;
+}
+
+.cleanfix {
+    clear: both;
+}
+
+h1 {
+    
+   
+    position: relative;
+    top: 30px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+    
+
+.titulo {
+    text-align: center;
+    width: 100%;
+   margin-top: 80px;
+    padding: 0;
+   
+}    
+
+#wrap {
+    display: inline-block;
+    position: relative;
+    margin-left: 18%;
+    width: 52%;
+    
+}
+
+
+img {
+    max-width: 350px;
+    max-height: 250px;
+}
+
+#contact {
+    
+    right: 5%;
+    float: right;
+    position: relative;
+}
+
+#media {
+    width: 15%;
+    float: right;
+    position: relative;
+    right: 10%;
+    
+    
+}
+
+#media h2 {
+    font-size: 18px;
+}
+
+#ico1 {
+    float: left;
+}
+#ico2 {
+    float: left;
+}
+#ico3 {
+    float: left;
+    position: relative;
+    top: 5px;
+}
+
+#ico4 {
+    
+    position: relative;
+    top: 10px;
+    left: 3px;
+}
+
+button {
+    background-color: white;
+    width: 100%;
+    height: 27px;
+    border-radius: 10px;
+    
+    
+    
+}
+
+footer p {
+    text-align: center;
+}
